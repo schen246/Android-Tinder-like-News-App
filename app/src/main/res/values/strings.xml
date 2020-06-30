@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">TinNews</string>
+    <string name="titile_home" translatable="false">Home</string>
+    <string name="titile_save" translatable="false">Save</string>
+    <string name="titile_search" translatable="false">Search</string>
+    <string name="title_detail" translatable="false">Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="unknown_author">Unknown Author</string>
+    <string name="description">Description:</string>
+    <string name='author'>Author:</string>
+</resources>
